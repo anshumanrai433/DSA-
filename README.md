@@ -1,37 +1,75 @@
-# DSA-
-# 🚀 DSA Practice Repository
+# 📘 DSA Problem Solutions  
 
-This repo contains my solutions to problems from:
-- [LeetCode](https://leetcode.com/anshumanrai)
-- [Codeforces](https://codeforces.com/profile/anshumanrai)
+![GitHub repo size](https://img.shields.io/github/repo-size/anshumanrai433/DSA-Questions?color=blue)  
+![GitHub stars](https://img.shields.io/github/stars/anshumanrai433/DSA-Questions?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/anshumanrai433/DSA-Questions?style=social)  
 
-## 📂 Structure
-- `LeetCode/` → Solutions categorized by topic
-- `Codeforces/` → Solutions categorized by problem set (A, B, C...)
+Welcome to my **DSA Practice Repository** 🎯  
+This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from **LeetCode** and **Codeforces**.  
 
-## 📊 Progress
-| Platform   | Problems Solved |
-|------------|-----------------|
-| LeetCode   | 45+             |
-| Codeforces | 20+             |
+The purpose of this repository is to:  
+- 📌 Track my progress in problem-solving  
+- 📌 Maintain a reference library of solutions  
+- 📌 Improve coding skills & prepare for interviews and contests  
+- 📌 Document approaches with explanations and problem links  
 
+---
 
+## 📂 Repository Structure  
+# 📘 DSA-Questions Repository  
 
- DSA-Questions/
+This repository contains solutions to **LeetCode** and **Codeforces** problems solved in **Java**.  
+The solutions are organized topic-wise and contest-wise for better readability and navigation.  
+
+---
+
+## 📂 Repository Structure  
+
+```bash
+DSA-Questions/
 │── README.md
+│
 │── LeetCode/
 │   ├── Arrays/
-│   │   ├── 1_Two_Sum.cpp
-│   │   ├── 53_Maximum_Subarray.cpp
+│   │   ├── 1_Two_Sum.java
+│   │   ├── 53_Maximum_Subarray.java
+│   │   └── README.md
+│   │
 │   ├── Strings/
-│   │   ├── 3_Longest_Substring.cpp
-│   │   ├── 242_Valid_Anagram.cpp
-│   └── ...
+│   │   ├── 3_Longest_Substring.java
+│   │   ├── 242_Valid_Anagram.java
+│   │   └── README.md
+│   │
+│   ├── LinkedList/
+│   │   ├── 21_Merge_Two_Sorted_Lists.java
+│   │   └── README.md
+│   │
+│   ├── Trees/
+│   │   ├── 104_Maximum_Depth.java
+│   │   ├── 110_Balanced_Binary_Tree.java
+│   │   └── README.md
+│   │
+│   ├── Graphs/
+│   │   ├── 200_Number_of_Islands.java
+│   │   └── README.md
+│   │
+│   └── README.md
 │
 │── Codeforces/
 │   ├── A_Problems/
-│   │   ├── 231A_Team.cpp
-│   │   ├── 4A_Watermelon.cpp
+│   │   ├── 231A_Team.java
+│   │   ├── 4A_Watermelon.java
+│   │   └── README.md
+│   │
 │   ├── B_Problems/
-│   │   ├── ...
-│   └── ...
+│   │   ├── 266B_Queue_at_the_School.java
+│   │   └── README.md
+│   │
+│   ├── C_Problems/
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+└── LICENSE
+
+
