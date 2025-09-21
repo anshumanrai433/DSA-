@@ -1,9 +1,5 @@
 # 📘 DSA Problem Solutions  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anshumanrai433/DSA-Questions?color=blue)  
-![GitHub stars](https://img.shields.io/github/stars/anshumanrai433/DSA-Questions?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/anshumanrai433/DSA-Questions?style=social)  
-
 Welcome to my **DSA Practice Repository** 🎯  
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from **LeetCode** and **Codeforces**.  
 
