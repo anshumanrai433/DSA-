@@ -25,6 +25,9 @@ Each folder includes problems & solutions along with topic-wise categorization, 
 
 ## 🗂️ Repository Structure
 
+## 📂 Repository Structure
+
+```text
 DSA-/
 │
 ├── Leetcode/
@@ -50,6 +53,8 @@ DSA-/
 │
 ├── README.md
 └── LICENSE
+```
+
 
 
 
