@@ -1,71 +1,79 @@
-# 📘 DSA Problem Solutions  
+# 📚 DSA Practice Repository
 
-Welcome to my **DSA Practice Repository** 🎯  
-This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from **LeetCode** and **Codeforces**.  
-
-The purpose of this repository is to:  
-- 📌 Track my progress in problem-solving  
-- 📌 Maintain a reference library of solutions  
-- 📌 Improve coding skills & prepare for interviews and contests  
-- 📌 Document approaches with explanations and problem links  
+Welcome to **DSA-**, my personal repository for practising **Data Structures & Algorithms** by solving problems from popular platforms like **LeetCode**, **Codeforces**, **GeeksForGeeks**, and more. 🚀
 
 ---
 
-## 📂 Repository Structure  
-# 📘 DSA-Questions Repository  
+## 🔍 Table of Contents
 
-This repository contains solutions to **LeetCode** and **Codeforces** problems solved in **Java**.  
-The solutions are organized topic-wise and contest-wise for better readability and navigation.  
+- 📌 [About](#about)
+- 🗂️ [Repository Structure](#repository-structure)
+- 🧠 [Topics Covered](#topics-covered)
+- 💡 [How to Use This Repo](#how-to-use-this-repo)
+- 🧪 [Contributing](#contributing)
+- 📫 [Contact](#contact)
+- ⭐ [Support](#support)
 
 ---
 
-## 📂 Repository Structure  
+## 📌 About
 
-```bash
-DSA-Questions/
-│── README.md
+This repository contains my DSA problem solutions organized in a clear and structured way.  
+Each folder includes problems & solutions along with topic-wise categorization, helping both *me* and *others* track progress, revise concepts, and prepare for interviews or competitive programming contests. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🗂️ Repository Structure
+
+DSA-/
 │
-│── LeetCode/
+├── Leetcode/
 │   ├── Arrays/
 │   │   ├── 1_Two_Sum.java
 │   │   ├── 53_Maximum_Subarray.java
 │   │   └── README.md
 │   │
 │   ├── Strings/
-│   │   ├── 3_Longest_Substring.java
-│   │   ├── 242_Valid_Anagram.java
-│   │   └── README.md
-│   │
 │   ├── LinkedList/
-│   │   ├── 21_Merge_Two_Sorted_Lists.java
-│   │   └── README.md
-│   │
 │   ├── Trees/
-│   │   ├── 104_Maximum_Depth.java
-│   │   ├── 110_Balanced_Binary_Tree.java
-│   │   └── README.md
-│   │
-│   ├── Graphs/
-│   │   ├── 200_Number_of_Islands.java
-│   │   └── README.md
-│   │
-│   └── README.md
+│   └── DynamicProgramming/
 │
-│── Codeforces/
+├── Codeforces/
 │   ├── A_Problems/
-│   │   ├── 231A_Team.java
-│   │   ├── 4A_Watermelon.java
-│   │   └── README.md
-│   │
 │   ├── B_Problems/
-│   │   ├── 266B_Queue_at_the_School.java
-│   │   └── README.md
-│   │
-│   ├── C_Problems/
-│   │   └── README.md
-│   │
-│   └── README.md
+│   └── C_Problems/
 │
+├── GeeksForGeeks/
+│   ├── Arrays/
+│   ├── Strings/
+│   └── DP/
+│
+├── README.md
 └── LICENSE
 
 
+
+Each folder can also contain a README to briefly explain the logic or approach for that topic. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🧠 Topics Covered
+
+This repo includes solutions from the following categories:
+
+- 🔹 Arrays
+- 🔹 Strings
+- 🔹 Linked Lists
+- 🔹 Trees
+- 🔹 Graphs
+- 🔹 Dynamic Programming
+- 🔹 Sorting & Searching  
+…and more! :contentReference[oaicite:3]{index=3}
+
+---
+
+## 💡 How to Use This Repo
+
+1. 🚀 **Clone the repository**
+   ```bash
+   git clone https://github.com/anshumanrai433/DSA-.git
